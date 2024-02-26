@@ -9,7 +9,7 @@ Enthusiastic Frontend Developer dedicated to crafting interactive and dynamic in
 * 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [Myportfolio](http://louka.dev)
 * ✉️  You can contact me at [contact@louka.dev](mailto:contact@louka.dev)
-* 🧠  I'm learning scrapping
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on projects
 * ⚡  hello
 
